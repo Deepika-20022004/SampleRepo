@@ -1,2 +1,2 @@
 Main file
-This is branch 1 file.txt
+This is branch 2 file.txt
